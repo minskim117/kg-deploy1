@@ -13,3 +13,6 @@ tmp/
 # OS / 에디터
 .DS_Store
 *.log
+
+# Cloudflare Wrangler 로컬 상태
+.wrangler/

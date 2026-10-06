@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  // 코코비 핑크 블랙 히어로 랜딩 — 정적 자산만 배포 (Worker 코드 없음)
+  "name": "cocobi-pinkblack-hero",
+  "compatibility_date": "2026-10-06",
+  "assets": {
+    "directory": "./dist"
+  }
+}
