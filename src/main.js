@@ -150,7 +150,7 @@ const CHARACTERS = [
     items: [
       { spine: 'coco_pink', skin: 'magic', animation: 'common/pose', tone: 'pink', name: '핑크 코코',
         quote: '“사랑의 힘으로 널 용서하지 않겠어!”',
-        desc: '달콤한 사랑의 힘으로 나쁜 마음을 정화하는 핑크 히어로! 팬던트에 마법의 기운을 담아 화려한 모습으로 변신해요.' },
+        desc: '달콤한 사랑의 힘으로 나쁜 마음을 정화하는 핑크 히어로! 팬던트에 마법의 기운을 담아 화려한 모습으로 변신해요. 사랑의 힘을 모르는 당신이 불쌍해요.' },
       { spine: 'coco_black', skin: 'magic', animation: 'common/pose', tone: 'black', name: '블랙 코코',
         quote: '“어둠의 힘으로 널 용서하지 않겠어!”',
         desc: '강력한 어둠의 힘으로 몬스터를 제압하는 블랙 히어로! 구조, 마을 정비, 보스 전투까지 핑크 코코와 함께 출동해요.' },
