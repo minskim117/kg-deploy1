@@ -1,0 +1,342 @@
+
+icetyranno.png
+size: 1903,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0/icecream_0
+  rotate: false
+  xy: 1747, 154
+  size: 73, 89
+  orig: 75, 91
+  offset: 1, 1
+  index: -1
+0/icecream_1
+  rotate: false
+  xy: 1301, 195
+  size: 50, 16
+  orig: 52, 18
+  offset: 1, 1
+  index: -1
+0/icecream_2
+  rotate: false
+  xy: 895, 158
+  size: 73, 25
+  orig: 75, 27
+  offset: 1, 1
+  index: -1
+0/icecream_3
+  rotate: false
+  xy: 1250, 170
+  size: 58, 20
+  orig: 60, 22
+  offset: 1, 1
+  index: -1
+2/icecream_0
+  rotate: true
+  xy: 1747, 245
+  size: 76, 90
+  orig: 78, 92
+  offset: 1, 1
+  index: -1
+2/icecream_1
+  rotate: false
+  xy: 1353, 195
+  size: 50, 16
+  orig: 52, 18
+  offset: 1, 1
+  index: -1
+2/icecream_2
+  rotate: false
+  xy: 1128, 165
+  size: 73, 25
+  orig: 75, 27
+  offset: 1, 1
+  index: -1
+2/icecream_3
+  rotate: false
+  xy: 1310, 173
+  size: 58, 20
+  orig: 60, 22
+  offset: 1, 1
+  index: -1
+bubble_back
+  rotate: false
+  xy: 970, 192
+  size: 329, 329
+  orig: 331, 331
+  offset: 1, 1
+  index: -1
+bubble_front
+  rotate: false
+  xy: 632, 185
+  size: 336, 336
+  orig: 338, 338
+  offset: 1, 1
+  index: -1
+icetyranno_arm_l_1
+  rotate: false
+  xy: 331, 46
+  size: 43, 70
+  orig: 45, 72
+  offset: 1, 1
+  index: -1
+icetyranno_arm_l_2
+  rotate: false
+  xy: 970, 154
+  size: 77, 36
+  orig: 79, 38
+  offset: 1, 1
+  index: -1
+icetyranno_arm_r_1
+  rotate: true
+  xy: 632, 140
+  size: 43, 70
+  orig: 45, 72
+  offset: 1, 1
+  index: -1
+icetyranno_arm_r_2
+  rotate: false
+  xy: 1049, 154
+  size: 77, 36
+  orig: 79, 38
+  offset: 1, 1
+  index: -1
+icetyranno_body
+  rotate: true
+  xy: 325, 133
+  size: 388, 305
+  orig: 393, 309
+  offset: 2, 3
+  index: -1
+icetyranno_eye
+  rotate: false
+  xy: 1813, 88
+  size: 88, 58
+  orig: 90, 60
+  offset: 1, 1
+  index: -1
+icetyranno_eye_1
+  rotate: false
+  xy: 704, 152
+  size: 92, 31
+  orig: 94, 33
+  offset: 1, 1
+  index: -1
+icetyranno_eye_2
+  rotate: false
+  xy: 798, 154
+  size: 95, 29
+  orig: 97, 31
+  offset: 1, 1
+  index: -1
+icetyranno_eyeball_l
+  rotate: false
+  xy: 1407, 8
+  size: 25, 25
+  orig: 27, 27
+  offset: 1, 1
+  index: -1
+icetyranno_eyeball_r
+  rotate: true
+  xy: 1380, 7
+  size: 26, 25
+  orig: 28, 27
+  offset: 1, 1
+  index: -1
+icetyranno_eyebrow_l
+  rotate: false
+  xy: 1083, 2
+  size: 52, 13
+  orig: 54, 15
+  offset: 1, 1
+  index: -1
+icetyranno_eyebrow_r
+  rotate: false
+  xy: 325, 118
+  size: 53, 13
+  orig: 55, 15
+  offset: 1, 1
+  index: -1
+icetyranno_foot_l
+  rotate: true
+  xy: 119, 7
+  size: 107, 104
+  orig: 109, 106
+  offset: 1, 1
+  index: -1
+icetyranno_foot_r
+  rotate: true
+  xy: 225, 7
+  size: 107, 104
+  orig: 109, 106
+  offset: 1, 1
+  index: -1
+icetyranno_hand_l
+  rotate: false
+  xy: 331, 2
+  size: 43, 42
+  orig: 45, 44
+  offset: 1, 1
+  index: -1
+icetyranno_hand_r
+  rotate: false
+  xy: 1858, 410
+  size: 43, 41
+  orig: 45, 44
+  offset: 1, 1
+  index: -1
+icetyranno_head
+  rotate: true
+  xy: 1533, 231
+  size: 290, 212
+  orig: 292, 214
+  offset: 1, 1
+  index: -1
+icetyranno_head_drip
+  rotate: true
+  xy: 1747, 453
+  size: 68, 132
+  orig: 70, 134
+  offset: 1, 1
+  index: -1
+icetyranno_jaw
+  rotate: false
+  xy: 380, 5
+  size: 251, 126
+  orig: 254, 129
+  offset: 2, 1
+  index: -1
+icetyranno_leg_l_1
+  rotate: false
+  xy: 1261, 10
+  size: 117, 158
+  orig: 119, 160
+  offset: 1, 1
+  index: -1
+icetyranno_leg_l_2
+  rotate: false
+  xy: 1747, 388
+  size: 109, 63
+  orig: 111, 65
+  offset: 1, 1
+  index: -1
+icetyranno_leg_r_1
+  rotate: false
+  xy: 1380, 35
+  size: 117, 158
+  orig: 119, 160
+  offset: 1, 1
+  index: -1
+icetyranno_leg_r_2
+  rotate: false
+  xy: 1747, 323
+  size: 109, 63
+  orig: 111, 65
+  offset: 1, 1
+  index: -1
+icetyranno_white_arm_l_2
+  rotate: true
+  xy: 1822, 148
+  size: 95, 54
+  orig: 97, 56
+  offset: 1, 1
+  index: -1
+icetyranno_white_arm_r_2
+  rotate: true
+  xy: 1757, 57
+  size: 95, 54
+  orig: 97, 56
+  offset: 1, 1
+  index: -1
+icetyranno_white_body
+  rotate: true
+  xy: 2, 116
+  size: 405, 321
+  orig: 407, 323
+  offset: 1, 1
+  index: -1
+icetyranno_white_foot_l
+  rotate: true
+  xy: 1499, 86
+  size: 125, 122
+  orig: 127, 124
+  offset: 1, 1
+  index: -1
+icetyranno_white_foot_r
+  rotate: true
+  xy: 1623, 104
+  size: 125, 122
+  orig: 127, 124
+  offset: 1, 1
+  index: -1
+icetyranno_white_hand_l
+  rotate: false
+  xy: 1839, 261
+  size: 61, 60
+  orig: 63, 62
+  offset: 1, 1
+  index: -1
+icetyranno_white_hand_r
+  rotate: true
+  xy: 1813, 25
+  size: 61, 60
+  orig: 63, 62
+  offset: 1, 1
+  index: -1
+icetyranno_white_head
+  rotate: true
+  xy: 1301, 213
+  size: 308, 230
+  orig: 310, 232
+  offset: 1, 1
+  index: -1
+icetyranno_white_jaw
+  rotate: false
+  xy: 811, 7
+  size: 270, 145
+  orig: 272, 147
+  offset: 1, 1
+  index: -1
+icetyranno_white_leg_l_1
+  rotate: true
+  xy: 633, 3
+  size: 135, 176
+  orig: 137, 178
+  offset: 1, 1
+  index: -1
+icetyranno_white_leg_l_2
+  rotate: false
+  xy: 1499, 3
+  size: 127, 81
+  orig: 129, 83
+  offset: 1, 1
+  index: -1
+icetyranno_white_leg_r_1
+  rotate: true
+  xy: 1083, 17
+  size: 135, 176
+  orig: 137, 178
+  offset: 1, 1
+  index: -1
+icetyranno_white_leg_r_2
+  rotate: false
+  xy: 1628, 21
+  size: 127, 81
+  orig: 129, 83
+  offset: 1, 1
+  index: -1
+tear
+  rotate: false
+  xy: 1203, 160
+  size: 45, 30
+  orig: 47, 32
+  offset: 1, 1
+  index: -1
+warning
+  rotate: false
+  xy: 2, 9
+  size: 115, 105
+  orig: 117, 107
+  offset: 1, 1
+  index: -1

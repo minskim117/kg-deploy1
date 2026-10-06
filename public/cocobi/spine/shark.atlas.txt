@@ -1,0 +1,265 @@
+
+shark.png
+size: 1889,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_splash_0
+  rotate: false
+  xy: 466, 374
+  size: 444, 404
+  orig: 469, 514
+  offset: 5, 56
+  index: -1
+attack_splash_1
+  rotate: false
+  xy: 2, 377
+  size: 462, 401
+  orig: 555, 532
+  offset: 44, 89
+  index: -1
+board_l
+  rotate: false
+  xy: 1524, 168
+  size: 161, 114
+  orig: 163, 116
+  offset: 1, 1
+  index: -1
+board_r
+  rotate: false
+  xy: 1524, 38
+  size: 135, 128
+  orig: 137, 130
+  offset: 1, 1
+  index: -1
+bubble_back
+  rotate: false
+  xy: 1250, 449
+  size: 329, 329
+  orig: 331, 331
+  offset: 1, 1
+  index: -1
+bubble_front
+  rotate: false
+  xy: 912, 442
+  size: 336, 336
+  orig: 338, 338
+  offset: 1, 1
+  index: -1
+eye_dizzy
+  rotate: false
+  xy: 1661, 143
+  size: 21, 23
+  orig: 23, 25
+  offset: 1, 1
+  index: -1
+octopus_tied
+  rotate: true
+  xy: 1101, 19
+  size: 234, 119
+  orig: 236, 121
+  offset: 1, 1
+  index: -1
+sweat_0
+  rotate: false
+  xy: 1250, 350
+  size: 277, 97
+  orig: 279, 150
+  offset: 1, 13
+  index: -1
+sweat_1
+  rotate: false
+  xy: 2, 4
+  size: 299, 104
+  orig: 311, 140
+  offset: 11, 13
+  index: -1
+tyshark_body
+  rotate: true
+  xy: 425, 125
+  size: 247, 403
+  orig: 249, 405
+  offset: 1, 1
+  index: -1
+tyshark_eye_0
+  rotate: false
+  xy: 830, 320
+  size: 78, 52
+  orig: 80, 54
+  offset: 1, 1
+  index: -1
+tyshark_eye_2
+  rotate: true
+  xy: 1687, 193
+  size: 89, 30
+  orig: 91, 32
+  offset: 1, 1
+  index: -1
+tyshark_eye_3
+  rotate: false
+  xy: 1719, 251
+  size: 89, 30
+  orig: 91, 32
+  offset: 1, 1
+  index: -1
+tyshark_eye_4
+  rotate: true
+  xy: 779, 28
+  size: 95, 29
+  orig: 97, 31
+  offset: 1, 1
+  index: -1
+tyshark_eyeball_l
+  rotate: false
+  xy: 1810, 254
+  size: 27, 27
+  orig: 29, 29
+  offset: 1, 1
+  index: -1
+tyshark_eyeball_r
+  rotate: false
+  xy: 830, 260
+  size: 27, 27
+  orig: 29, 29
+  offset: 1, 1
+  index: -1
+tyshark_eyebrow_l
+  rotate: false
+  xy: 1719, 221
+  size: 42, 28
+  orig: 44, 30
+  offset: 1, 1
+  index: -1
+tyshark_eyebrow_r
+  rotate: false
+  xy: 830, 289
+  size: 43, 29
+  orig: 45, 31
+  offset: 1, 1
+  index: -1
+tyshark_eyelid_l
+  rotate: false
+  xy: 1529, 427
+  size: 44, 20
+  orig: 46, 22
+  offset: 1, 1
+  index: -1
+tyshark_eyelid_r
+  rotate: false
+  xy: 1524, 16
+  size: 44, 20
+  orig: 46, 22
+  offset: 1, 1
+  index: -1
+tyshark_hand_l
+  rotate: true
+  xy: 425, 2
+  size: 121, 175
+  orig: 123, 177
+  offset: 1, 1
+  index: -1
+tyshark_hand_r
+  rotate: true
+  xy: 602, 2
+  size: 121, 175
+  orig: 123, 177
+  offset: 1, 1
+  index: -1
+tyshark_head
+  rotate: false
+  xy: 1581, 425
+  size: 288, 156
+  orig: 290, 158
+  offset: 1, 1
+  index: -1
+tyshark_jaw
+  rotate: false
+  xy: 830, 47
+  size: 269, 206
+  orig: 271, 249
+  offset: 1, 41
+  index: -1
+tyshark_leg_l
+  rotate: true
+  xy: 1724, 283
+  size: 140, 148
+  orig: 142, 150
+  offset: 1, 1
+  index: -1
+tyshark_leg_r
+  rotate: false
+  xy: 1222, 5
+  size: 140, 148
+  orig: 142, 150
+  offset: 1, 1
+  index: -1
+tyshark_tooth_l
+  rotate: false
+  xy: 1201, 356
+  size: 40, 41
+  orig: 42, 43
+  offset: 1, 1
+  index: -1
+tyshark_tooth_r
+  rotate: false
+  xy: 1201, 399
+  size: 47, 41
+  orig: 49, 44
+  offset: 1, 2
+  index: -1
+tyshark_w_body
+  rotate: true
+  xy: 2, 110
+  size: 265, 421
+  orig: 267, 423
+  offset: 1, 1
+  index: -1
+tyshark_w_hand_l
+  rotate: true
+  xy: 1529, 284
+  size: 139, 193
+  orig: 141, 195
+  offset: 1, 1
+  index: -1
+tyshark_w_hand_r
+  rotate: false
+  xy: 1222, 155
+  size: 139, 193
+  orig: 141, 195
+  offset: 1, 1
+  index: -1
+tyshark_w_head
+  rotate: false
+  xy: 1581, 583
+  size: 306, 195
+  orig: 308, 198
+  offset: 1, 2
+  index: -1
+tyshark_w_jaw
+  rotate: false
+  xy: 912, 255
+  size: 287, 185
+  orig: 289, 187
+  offset: 1, 1
+  index: -1
+tyshark_w_leg_l
+  rotate: false
+  xy: 1363, 182
+  size: 158, 166
+  orig: 160, 168
+  offset: 1, 1
+  index: -1
+tyshark_w_leg_r
+  rotate: false
+  xy: 1364, 14
+  size: 158, 166
+  orig: 160, 168
+  offset: 1, 1
+  index: -1
+warning
+  rotate: false
+  xy: 303, 3
+  size: 115, 105
+  orig: 117, 107
+  offset: 1, 1
+  index: -1

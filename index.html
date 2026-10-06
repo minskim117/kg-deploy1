@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>코코비 핑크 블랙 히어로</title>
+    <meta name="description" content="사랑과 어둠의 힘으로 몬스터로부터 코코비 마을을 지키는 키즈 히어로 게임, 코코비 핑크 블랙 히어로" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./src/style.css" />
+  </head>
+  <body>
+    <!-- ───────── 상단 유틸 바 (데스크톱) ───────── -->
+    <div class="util-bar">
+      <a class="util-brand" href="#top"><img src="/cocobi/kiglelogo.png" alt="KIGLE" /> games</a>
+      <div class="util-right">
+        <a href="#">고객센터</a>
+        <button class="util-lang" type="button">한국어 <span>▾</span></button>
+      </div>
+    </div>
+
+    <!-- ───────── GNB (데스크톱) ───────── -->
+    <header class="gnb">
+      <div class="gnb-inner">
+        <a class="gnb-logo" href="#top" data-scroll aria-label="맨 위로"><img src="/cocobi/title_kr.png" alt="코코비 핑크 블랙 히어로" /></a>
+        <nav class="gnb-menu">
+          <a href="#contents" data-scroll>게임소개</a>
+          <a href="#character" data-scroll>캐릭터</a>
+          <a href="#monsters" data-scroll>몬스터</a>
+          <a href="#story" data-scroll>스토리</a>
+          <a href="#media" data-scroll>미디어</a>
+          <a href="https://play.google.com/store/apps/details?id=com.kigle.cocobi.pinkblackhero&hl=ko" target="_blank" rel="noopener" class="gnb-cta">다운로드</a>
+        </nav>
+      </div>
+    </header>
+
+    <!-- ───────── 모바일 햄버거 + 브랜드 ───────── -->
+    <button class="m-burger" type="button" aria-label="메뉴 열기" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <a class="m-brand" href="#top"><img src="/cocobi/kiglelogo.png" alt="KIGLE" /></a>
+
+    <!-- ───────── 모바일 전체화면 내비 ───────── -->
+    <nav class="m-nav" aria-hidden="true">
+      <button class="m-nav-close" type="button" aria-label="메뉴 닫기">
+        <svg viewBox="0 0 50 50"><path d="M14 14l22 22M36 14L14 36" stroke="currentColor" stroke-width="3" stroke-linecap="round" /></svg>
+      </button>
+      <a class="m-nav-logo" href="#top" data-scroll><img src="/cocobi/title_kr.png" alt="" /></a>
+      <ul class="m-nav-list">
+        <li><a href="#contents" data-scroll>게임소개</a></li>
+        <li><a href="#character" data-scroll>캐릭터</a></li>
+        <li><a href="#monsters" data-scroll>몬스터</a></li>
+        <li><a href="#story" data-scroll>스토리</a></li>
+        <li><a href="#media" data-scroll>미디어</a></li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.kigle.cocobi.pinkblackhero&hl=ko" target="_blank" rel="noopener">다운로드</a></li>
+      </ul>
+      <div class="m-nav-divider">
+        <svg viewBox="0 0 226 14"><path d="M0 7h96M130 7h96" stroke="#ff7ac0" stroke-width="1.5" /><path d="M113 12.5C104 6 104 1.5 108.5 1.5c2.2 0 3.6 1.4 4.5 3 .9-1.6 2.3-3 4.5-3 4.5 0 4.5 4.5-4.5 11z" fill="#ff7ac0" /></svg>
+      </div>
+      <ul class="m-nav-social">
+        <li><a href="https://www.youtube.com/watch?v=eb6z71CS4C0&list=PLlrAsn3FlPaqh17O_xHEMqEUjRidcYPqu" target="_blank" rel="noopener" aria-label="YouTube" class="sc sc-yt"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M9.8 15.1V8.9l5.4 3.1z" /></svg></a></li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.kigle.cocobi.pinkblackhero&hl=ko" target="_blank" rel="noopener" aria-label="Google Play" class="sc sc-gp"><svg viewBox="0 0 24 24"><path fill="#fff" d="M5 3.5l9.5 8.5L5 20.5c-.3-.2-.5-.6-.5-1v-15c0-.4.2-.8.5-1zM15.6 13l2.3 2-9.6 5.3zM15.6 11L8.3 3.7l9.6 5.3zM16.8 12l2.6-1.5c.8.5.8 1.5 0 2z" /></svg></a></li>
+      </ul>
+      <div class="m-nav-lang"><button type="button">한국어 ▾</button></div>
+    </nav>
+
+    <main id="main">
+      <!-- ═════════ HERO ═════════ -->
+      <section id="top" class="hero">
+        <div class="hero-bg">
+          <video class="hero-video" src="/cocobi/cocobi_60sec_web.mp4" poster="/cocobi/intro_battle.jpg" autoplay muted loop playsinline preload="auto"></video>
+        </div>
+        <div class="hero-content">
+          <h1 class="hero-logo"><img src="/cocobi/title_kr.png" alt="코코비 핑크 블랙 히어로" /></h1>
+          <button class="hero-play js-open-video" type="button" aria-label="애니메이션 재생" data-youtube="eb6z71CS4C0" data-list="PLlrAsn3FlPaqh17O_xHEMqEUjRidcYPqu">
+            <img src="/cocobi/home_button.png" alt="" />
+          </button>
+          <div class="hero-stores">
+            <a class="store-btn" href="https://play.google.com/store/apps/details?id=com.kigle.cocobi.pinkblackhero&hl=ko" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" class="store-ico"><path fill="currentColor" d="M16.4 12.6c0-2.3 1.9-3.4 2-3.5-1.1-1.6-2.8-1.8-3.4-1.8-1.4-.1-2.8.9-3.5.9s-1.8-.9-3-.9C6.9 7.3 5.4 8.3 4.6 9.7c-1.7 2.9-.4 7.2 1.2 9.6.8 1.2 1.8 2.4 3 2.4s1.7-.8 3.1-.8 1.9.8 3.1.8c1.3 0 2.1-1.2 2.9-2.3.9-1.3 1.3-2.6 1.3-2.7 0 0-2.6-1-2.8-4.1zM14.1 5.8c.7-.8 1.1-1.9 1-3-1 0-2.1.7-2.8 1.5-.6.7-1.2 1.8-1 2.9 1.1.1 2.1-.6 2.8-1.4z" /></svg>
+              <span class="store-txt"><b>App Store에서</b><small>다운로드 하기</small></span>
+            </a>
+            <a class="store-btn" href="https://play.google.com/store/apps/details?id=com.kigle.cocobi.pinkblackhero&hl=ko" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" class="store-ico"><path fill="#34a853" d="M3.6 2.3l10.2 10.2L3.6 22.7c-.4-.2-.6-.6-.6-1.1V3.4c0-.5.2-.9.6-1.1z" /><path fill="#fbbc04" d="M17.2 9.1l3.3 1.9c.9.5.9 1.5 0 2l-3.3 1.9-3.4-2.4z" /><path fill="#ea4335" d="M13.8 12.5l3.4 2.4L5 21.9c-.5.3-1 .3-1.4.8z" /><path fill="#4285f4" d="M3.6 2.3c.4-.2.9-.2 1.4.1l12.2 6.7-3.4 3.4z" /></svg>
+              <span class="store-txt"><b>Google Play에서</b><small>다운로드</small></span>
+            </a>
+          </div>
+        </div>
+        <a class="hero-scroll" href="#contents" data-scroll aria-label="아래로 스크롤">
+          <span class="hero-scroll-txt">SCROLL</span>
+          <svg viewBox="0 0 30 30">
+            <g opacity=".9">
+              <path class="sc-a" d="M7 8l8 8 8-8" fill="none" stroke="#ff8ccb" stroke-width="2" />
+              <path class="sc-b" d="M7 14l8 8 8-8" fill="none" stroke="#ff8ccb" stroke-width="2" />
+              <path class="sc-c" d="M10 24l5 5 5-5" fill="none" stroke="#ff8ccb" stroke-width="1.5" />
+            </g>
+          </svg>
+        </a>
+      </section>
+
+      <!-- ═════════ 게임소개 ═════════ -->
+      <section id="contents" class="sec sec--contents">
+        <div class="sec-deco" aria-hidden="true"></div>
+        <header class="sec-head">
+          <h2><span>COCOBI: PINK BLACK HERO</span><strong>게임소개</strong></h2>
+        </header>
+
+        <ul class="tabs tabs--dark" role="tablist">
+          <li><button type="button" class="tab active" data-slide="0">구조</button></li>
+          <li><button type="button" class="tab" data-slide="1">정비</button></li>
+          <li><button type="button" class="tab" data-slide="2">전투</button></li>
+          <li><button type="button" class="tab" data-slide="3">하우스</button></li>
+        </ul>
+
+        <div class="feature">
+          <button class="feature-arrow feature-arrow--prev" type="button" aria-label="이전"></button>
+          <div class="feature-frame">
+            <div class="feature-track">
+              <figure class="feature-slide active">
+                <img src="/cocobi/intro_rescue.jpg" alt="시민 구조 & 치료" />
+                <figcaption><em>히어로 미션 01</em><strong>시민 구조 &amp; 치료</strong><span>시민을 안전한 곳으로 대피시키고, 상처와 바이러스를 치료해요.</span></figcaption>
+              </figure>
+              <figure class="feature-slide">
+                <img src="/cocobi/intro_cleanup.jpg" alt="엉망이 된 마을 청소" />
+                <figcaption><em>히어로 미션 02</em><strong>엉망이 된 마을 청소</strong><span>몬스터의 공격으로 더러워진 코코비 마을을 깨끗하게 정리해요.</span></figcaption>
+              </figure>
+              <figure class="feature-slide">
+                <img src="/cocobi/intro_battle.jpg" alt="몬스터와 대결" />
+                <figcaption><em>히어로 미션 03</em><strong>몬스터와 대결</strong><span>핑크블랙 파워로 몬스터를 물리치고 세상을 구해요.</span></figcaption>
+              </figure>
+              <figure class="feature-slide">
+                <img src="/cocobi/intro_house.jpg" alt="나만의 핑크 블랙 하우스" />
+                <figcaption><em>승리의 보상</em><strong>나만의 핑크 블랙 하우스</strong><span>하트 코인과 가구로 집을 꾸미고, 새로운 코코 의상도 얻어요.</span></figcaption>
+              </figure>
+            </div>
+            <img class="feature-frame-img" src="/cocobi/popup_front_pink.png" alt="" />
+          </div>
+          <button class="feature-arrow feature-arrow--next" type="button" aria-label="다음"></button>
+        </div>
+        <ul class="dots" aria-hidden="true"></ul>
+      </section>
+
+      <!-- ═════════ 캐릭터 (Spine) ═════════ -->
+      <section id="character" class="sec sec--character">
+        <div class="sec-deco" aria-hidden="true"></div>
+        <header class="sec-head">
+          <h2><span>COCOBI: PINK BLACK HERO</span><strong>HEROES</strong></h2>
+          <p class="sec-note">※ 아이콘을 눌러 핑크 블랙 히어로를 만나보세요.</p>
+        </header>
+
+        <ul class="tabs tabs--light char-tabs" role="tablist"></ul>
+
+        <div class="char">
+          <ul class="char-list"></ul>
+          <div class="char-card">
+            <div class="char-card-frame">
+              <img class="char-card-bg" src="/cocobi/hero-card-pink.png" alt="" />
+            </div>
+            <canvas class="char-canvas" aria-hidden="true"></canvas>
+            <div class="char-loading">Loading…</div>
+          </div>
+          <div class="char-info">
+            <p class="char-cat"></p>
+            <h3 class="char-name"></h3>
+            <p class="char-quote"></p>
+            <p class="char-desc"></p>
+            <div class="char-nav">
+              <button type="button" class="char-nav-btn char-nav-prev" aria-label="이전 캐릭터"></button>
+              <button type="button" class="char-nav-btn char-nav-next" aria-label="다음 캐릭터"></button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ═════════ 몬스터 (Spine) — 아이콘 그리드 / 큰 캐릭터 + 좌우 화살표 / 이름·대사·설명 ═════════ -->
+      <section id="monsters" class="sec sec--monsters">
+        <svg class="mon-divider" viewBox="0 0 1280 4" preserveAspectRatio="none" aria-hidden="true">
+          <defs><linearGradient id="monDivider" x1="0" x2="1"><stop offset="0" stop-color="#ff5fb0" stop-opacity="0" /><stop offset=".5" stop-color="#ff9fd4" /><stop offset="1" stop-color="#ff5fb0" stop-opacity="0" /></linearGradient></defs>
+          <path fill="url(#monDivider)" d="M0 0c213.3 3 746.7 7.3 1280 0z" />
+        </svg>
+        <header class="sec-head reveal" style="--delay: 0ms">
+          <h2><span>COCOBI: PINK BLACK HERO</span><strong>MONSTERS</strong></h2>
+        </header>
+        <div class="mon-wrap">
+          <div class="mon-grid reveal" role="tablist" aria-label="몬스터 선택" style="--delay: 150ms"></div>
+          <div class="mon-stage reveal" style="--delay: 300ms">
+            <canvas class="mon-canvas" aria-hidden="true"></canvas>
+            <button type="button" class="mon-arrow mon-arrow--prev" aria-label="이전 몬스터"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" /></svg></button>
+            <button type="button" class="mon-arrow mon-arrow--next" aria-label="다음 몬스터"><svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" /></svg></button>
+          </div>
+          <div class="mon-info reveal" style="--delay: 450ms">
+            <h3 class="mon-name"><span class="mon-badge">BOSS</span><span class="mon-name-text"></span></h3>
+            <p class="mon-quote"></p>
+            <p class="mon-desc"></p>
+          </div>
+        </div>
+      </section>
+
+      <!-- ═════════ 스토리 ═════════ -->
+      <section id="story" class="sec sec--story">
+        <div class="story-vine story-vine--l" aria-hidden="true"></div>
+        <div class="story-vine story-vine--r" aria-hidden="true"></div>
+        <div class="sec-deco" aria-hidden="true"></div>
+        <header class="sec-head">
+          <h2><span>COCOBI: PINK BLACK HERO</span><strong>핑크블랙 스토리</strong></h2>
+        </header>
+        <p class="story-text">
+          공룡이 멸종하지 않은 세계,<br />
+          꼬마공룡 코코와 러비가 사는<br />
+          평화로운 코코비 마을.<br />
+          <br />
+          그런데 어느 날,<br />
+          몬스터들이 나타나<br />
+          마을을 엉망으로 만들기 시작했어요!<br />
+          <br />
+          <em>“사랑과 어둠의 힘으로 널 용서하지 않겠어!”</em><br />
+          팬던트에 마법의 기운이 모이고,<br />
+          핑크 블랙 히어로가 출동합니다!
+        </p>
+        <div class="story-stage" aria-hidden="true">
+          <div class="story-monsters">
+            <img class="mon mon-1 float-b" src="/cocobi/sticker_icetyranno.png" alt="" />
+            <img class="mon mon-2 float-b" src="/cocobi/sticker_mosquito.png" alt="" />
+            <img class="mon mon-3 float-b" src="/cocobi/sticker_tank.png" alt="" />
+            <img class="mon mon-4 float-b" src="/cocobi/sticker_crane.png" alt="" />
+            <img class="mon mon-5 float-b" src="/cocobi/sticker_tyrannoshark.png" alt="" />
+            <img class="mon mon-6 float-b" src="/cocobi/sticker_firetruck.png" alt="" />
+            <img class="mon mon-7 float-b" src="/cocobi/sticker_princess.png" alt="" />
+            <img class="mon mon-8 float-b" src="/cocobi/sticker_pepper.png" alt="" />
+          </div>
+          <canvas class="story-canvas float-a"></canvas>
+        </div>
+      </section>
+
+      <!-- ═════════ 미디어 ═════════ -->
+      <section id="media" class="sec sec--media">
+        <div class="sec-deco" aria-hidden="true"></div>
+        <header class="sec-head">
+          <h2><span>COCOBI: PINK BLACK HERO</span><strong>미디어</strong></h2>
+        </header>
+        <ul class="media-grid">
+          <li><button type="button" class="media-item js-open-video" data-youtube="rmSjR8692ug"><span class="media-thumb"><img src="/cocobi/youtube_0.png" alt="" /><i class="media-play"></i></span><span class="media-title">공식 트레일러</span></button></li>
+          <li><button type="button" class="media-item js-open-video" data-youtube="eb6z71CS4C0" data-list="PLlrAsn3FlPaqh17O_xHEMqEUjRidcYPqu"><span class="media-thumb"><img src="/cocobi/youtube_1.png" alt="" /><i class="media-play"></i></span><span class="media-title">애니메이션 〈코코비 핑크 블랙〉</span></button></li>
+        </ul>
+      </section>
+    </main>
+
+    <!-- ═════════ FOOTER (마우스를 움직이면 몬스터 스티커 트레일) ═════════ -->
+    <footer class="footer">
+      <div class="cta-trail" aria-hidden="true"></div>
+      <img class="footer-title" src="/cocobi/title_kr.png" alt="코코비 핑크 블랙 히어로" />
+      <div class="footer-links">
+        <a href="#">이용약관</a>
+        <a href="#">개인정보처리방침</a>
+        <a href="#">고객센터</a>
+      </div>
+      <p class="footer-info">(주)키글 서울특별시 서초구 방배로18길 5, 3층 (방배동, BH빌딩)</p>
+      <p class="footer-info">© KIGLE Inc. 꼬마공룡 코코비. All Rights Reserved.</p>
+      <img class="footer-brand" src="/cocobi/kiglelogo.png" alt="KIGLE" />
+    </footer>
+
+    <!-- ═════════ 비디오 모달 (코코비 모니터 프레임) ═════════ -->
+    <div class="modal" aria-hidden="true" role="dialog" aria-modal="true">
+      <div class="modal-dim"></div>
+      <div class="modal-box">
+        <div class="modal-screen"><div class="modal-body"></div></div>
+        <img class="modal-frame" src="/cocobi/monitor_frame.png" alt="" />
+        <button class="modal-close" type="button" aria-label="닫기"></button>
+      </div>
+    </div>
+
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>

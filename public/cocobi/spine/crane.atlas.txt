@@ -1,0 +1,531 @@
+
+crane.png
+size: 1969,1037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0/crane_arm_1_front
+  rotate: false
+  xy: 2, 14
+  size: 349, 224
+  orig: 351, 226
+  offset: 1, 1
+  index: -1
+0/crane_body_front
+  rotate: true
+  xy: 928, 391
+  size: 306, 232
+  orig: 308, 234
+  offset: 1, 1
+  index: -1
+0/crane_body_middle
+  rotate: true
+  xy: 719, 156
+  size: 205, 238
+  orig: 207, 240
+  offset: 1, 1
+  index: -1
+0/crane_claw_cover_front
+  rotate: false
+  xy: 1822, 371
+  size: 111, 69
+  orig: 113, 71
+  offset: 1, 1
+  index: -1
+0/crane_claw_m
+  rotate: false
+  xy: 903, 56
+  size: 46, 98
+  orig: 48, 100
+  offset: 1, 1
+  index: -1
+0/crane_ear_r
+  rotate: false
+  xy: 1801, 14
+  size: 38, 68
+  orig: 41, 70
+  offset: 2, 1
+  index: -1
+0/crane_jaw
+  rotate: false
+  xy: 1396, 389
+  size: 214, 93
+  orig: 216, 95
+  offset: 1, 1
+  index: -1
+1/crane_body_middle
+  rotate: false
+  xy: 959, 151
+  size: 205, 238
+  orig: 207, 240
+  offset: 1, 1
+  index: -1
+1/crane_jaw
+  rotate: false
+  xy: 1166, 131
+  size: 214, 93
+  orig: 216, 95
+  offset: 1, 1
+  index: -1
+2/crane_body_front
+  rotate: true
+  xy: 1162, 398
+  size: 306, 232
+  orig: 308, 234
+  offset: 1, 1
+  index: -1
+2/crane_claw_cover_front
+  rotate: true
+  xy: 1705, 156
+  size: 111, 69
+  orig: 113, 71
+  offset: 1, 1
+  index: -1
+2/crane_ear_r
+  rotate: true
+  xy: 1841, 19
+  size: 38, 68
+  orig: 41, 70
+  offset: 2, 1
+  index: -1
+3/crane_arm_1_front
+  rotate: true
+  xy: 493, 233
+  size: 349, 224
+  orig: 351, 226
+  offset: 1, 1
+  index: -1
+3/crane_body_front
+  rotate: false
+  xy: 1396, 484
+  size: 306, 231
+  orig: 308, 233
+  offset: 1, 1
+  index: -1
+3/crane_claw_m
+  rotate: true
+  xy: 694, 18
+  size: 46, 98
+  orig: 48, 100
+  offset: 1, 1
+  index: -1
+3/crane_jaw
+  rotate: false
+  xy: 1382, 139
+  size: 214, 93
+  orig: 216, 95
+  offset: 1, 1
+  index: -1
+bubble_back
+  rotate: false
+  xy: 1040, 706
+  size: 329, 329
+  orig: 331, 331
+  offset: 1, 1
+  index: -1
+bubble_front
+  rotate: false
+  xy: 702, 699
+  size: 336, 336
+  orig: 338, 338
+  offset: 1, 1
+  index: -1
+crane_angry
+  rotate: false
+  xy: 2, 584
+  size: 698, 451
+  orig: 702, 465
+  offset: 2, 12
+  index: -1
+crane_arm_2
+  rotate: true
+  xy: 719, 363
+  size: 334, 207
+  orig: 336, 209
+  offset: 1, 1
+  index: -1
+crane_arm_pole
+  rotate: false
+  xy: 466, 69
+  size: 199, 162
+  orig: 201, 164
+  offset: 1, 1
+  index: -1
+crane_body_back
+  rotate: false
+  xy: 794, 19
+  size: 89, 42
+  orig: 91, 44
+  offset: 1, 1
+  index: -1
+crane_claw_l
+  rotate: false
+  xy: 1459, 51
+  size: 70, 86
+  orig: 72, 88
+  offset: 1, 1
+  index: -1
+crane_claw_r
+  rotate: false
+  xy: 1531, 51
+  size: 70, 86
+  orig: 72, 88
+  offset: 1, 1
+  index: -1
+crane_claw_top
+  rotate: false
+  xy: 1801, 84
+  size: 52, 78
+  orig: 62, 116
+  offset: 7, 36
+  index: -1
+crane_claw_upper
+  rotate: false
+  xy: 1459, 8
+  size: 60, 41
+  orig: 62, 43
+  offset: 1, 1
+  index: -1
+crane_cover_back
+  rotate: false
+  xy: 1603, 76
+  size: 89, 63
+  orig: 91, 65
+  offset: 1, 1
+  index: -1
+crane_dizzy
+  rotate: true
+  xy: 1565, 21
+  size: 28, 31
+  orig: 30, 33
+  offset: 1, 1
+  index: -1
+crane_ear_l
+  rotate: false
+  xy: 1930, 60
+  size: 33, 68
+  orig: 35, 70
+  offset: 1, 1
+  index: -1
+crane_eye_0
+  rotate: true
+  xy: 1329, 38
+  size: 91, 56
+  orig: 93, 58
+  offset: 1, 1
+  index: -1
+crane_eye_1
+  rotate: false
+  xy: 1132, 6
+  size: 87, 30
+  orig: 89, 32
+  offset: 1, 1
+  index: -1
+crane_eye_2
+  rotate: true
+  xy: 1694, 52
+  size: 87, 30
+  orig: 89, 32
+  offset: 1, 1
+  index: -1
+crane_eye_3
+  rotate: false
+  xy: 1603, 48
+  size: 89, 26
+  orig: 91, 28
+  offset: 1, 1
+  index: -1
+crane_eyeball_l
+  rotate: false
+  xy: 1694, 20
+  size: 30, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+crane_eyeball_r
+  rotate: false
+  xy: 1221, 6
+  size: 30, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+crane_eyebrow_l
+  rotate: true
+  xy: 667, 69
+  size: 42, 28
+  orig: 44, 30
+  offset: 1, 1
+  index: -1
+crane_eyebrow_r
+  rotate: false
+  xy: 1521, 21
+  size: 42, 28
+  orig: 44, 30
+  offset: 1, 1
+  index: -1
+crane_hit
+  rotate: false
+  xy: 1371, 717
+  size: 337, 318
+  orig: 339, 320
+  offset: 1, 1
+  index: -1
+crane_light_l_0
+  rotate: false
+  xy: 973, 2
+  size: 55, 51
+  orig: 58, 53
+  offset: 2, 1
+  index: -1
+crane_light_l_1
+  rotate: false
+  xy: 951, 55
+  size: 95, 94
+  orig: 103, 101
+  offset: 4, 3
+  index: -1
+crane_light_r_0
+  rotate: false
+  xy: 1030, 2
+  size: 55, 51
+  orig: 57, 53
+  offset: 1, 1
+  index: -1
+crane_light_r_1
+  rotate: false
+  xy: 1048, 55
+  size: 95, 94
+  orig: 103, 101
+  offset: 4, 3
+  index: -1
+crane_line
+  rotate: false
+  xy: 702, 595
+  size: 13, 102
+  orig: 13, 102
+  offset: 0, 0
+  index: -1
+crane_nose
+  rotate: true
+  xy: 1087, 2
+  size: 51, 43
+  orig: 53, 45
+  offset: 1, 1
+  index: -1
+crane_speed
+  rotate: false
+  xy: 1704, 442
+  size: 249, 42
+  orig: 253, 44
+  offset: 2, 1
+  index: -1
+crane_surprise_0
+  rotate: false
+  xy: 1373, 234
+  size: 190, 153
+  orig: 192, 155
+  offset: 1, 1
+  index: -1
+crane_surprise_1
+  rotate: false
+  xy: 1166, 226
+  size: 205, 170
+  orig: 207, 172
+  offset: 1, 1
+  index: -1
+crane_w_arm
+  rotate: false
+  xy: 2, 240
+  size: 489, 342
+  orig: 491, 344
+  offset: 1, 1
+  index: -1
+crane_w_body_front
+  rotate: true
+  xy: 1710, 711
+  size: 324, 250
+  orig: 326, 252
+  offset: 1, 1
+  index: -1
+crane_w_body_middle
+  rotate: true
+  xy: 1704, 486
+  size: 223, 256
+  orig: 225, 258
+  offset: 1, 1
+  index: -1
+crane_w_claw_cover
+  rotate: true
+  xy: 1565, 258
+  size: 129, 105
+  orig: 131, 107
+  offset: 1, 1
+  index: -1
+crane_w_claw_l
+  rotate: false
+  xy: 1776, 164
+  size: 88, 104
+  orig: 90, 106
+  offset: 1, 1
+  index: -1
+crane_w_claw_m
+  rotate: true
+  xy: 1704, 376
+  size: 64, 116
+  orig: 66, 118
+  offset: 1, 1
+  index: -1
+crane_w_claw_r
+  rotate: true
+  xy: 698, 66
+  size: 88, 104
+  orig: 90, 106
+  offset: 1, 1
+  index: -1
+crane_w_claw_top
+  rotate: false
+  xy: 1387, 41
+  size: 70, 96
+  orig: 80, 134
+  offset: 7, 36
+  index: -1
+crane_w_claw_upper
+  rotate: false
+  xy: 614, 2
+  size: 78, 59
+  orig: 80, 61
+  offset: 1, 1
+  index: -1
+crane_w_ear_l
+  rotate: true
+  xy: 885, 2
+  size: 51, 86
+  orig: 53, 88
+  offset: 1, 1
+  index: -1
+crane_w_jaw
+  rotate: true
+  xy: 353, 6
+  size: 232, 111
+  orig: 234, 113
+  offset: 1, 1
+  index: -1
+crane_w_light_l
+  rotate: false
+  xy: 1855, 59
+  size: 73, 69
+  orig: 76, 71
+  offset: 2, 1
+  index: -1
+crane_w_light_r
+  rotate: false
+  xy: 1726, 4
+  size: 73, 69
+  orig: 75, 71
+  offset: 1, 1
+  index: -1
+crane_w_line
+  rotate: false
+  xy: 667, 113
+  size: 29, 118
+  orig: 31, 120
+  offset: 1, 1
+  index: -1
+crane_w_wheel_l_0
+  rotate: false
+  xy: 1672, 269
+  size: 99, 105
+  orig: 101, 107
+  offset: 1, 1
+  index: -1
+crane_w_wheel_l_1
+  rotate: true
+  xy: 804, 63
+  size: 91, 97
+  orig: 93, 99
+  offset: 1, 1
+  index: -1
+crane_w_wheel_l_2
+  rotate: true
+  xy: 1612, 399
+  size: 83, 90
+  orig: 85, 92
+  offset: 1, 1
+  index: -1
+crane_w_wheel_r
+  rotate: true
+  xy: 1773, 270
+  size: 99, 105
+  orig: 101, 107
+  offset: 1, 1
+  index: -1
+crane_w_wheel_r_1
+  rotate: true
+  xy: 1145, 38
+  size: 91, 97
+  orig: 93, 99
+  offset: 1, 1
+  index: -1
+crane_w_wheel_r_2
+  rotate: false
+  xy: 1244, 39
+  size: 83, 90
+  orig: 85, 92
+  offset: 1, 1
+  index: -1
+crane_wheel
+  rotate: false
+  xy: 1911, 4
+  size: 54, 53
+  orig: 56, 55
+  offset: 1, 1
+  index: -1
+crane_wheel_l_0
+  rotate: true
+  xy: 1880, 288
+  size: 81, 87
+  orig: 83, 89
+  offset: 1, 1
+  index: -1
+crane_wheel_l_1
+  rotate: true
+  xy: 1866, 130
+  size: 73, 79
+  orig: 75, 81
+  offset: 1, 1
+  index: -1
+crane_wheel_l_2
+  rotate: true
+  xy: 466, 2
+  size: 65, 72
+  orig: 67, 74
+  offset: 1, 1
+  index: -1
+crane_wheel_r
+  rotate: true
+  xy: 1880, 205
+  size: 81, 87
+  orig: 83, 89
+  offset: 1, 1
+  index: -1
+crane_wheel_r_1
+  rotate: false
+  xy: 1726, 75
+  size: 73, 79
+  orig: 75, 81
+  offset: 1, 1
+  index: -1
+crane_wheel_r_2
+  rotate: true
+  xy: 540, 2
+  size: 65, 72
+  orig: 67, 74
+  offset: 1, 1
+  index: -1
+warning
+  rotate: true
+  xy: 1598, 141
+  size: 115, 105
+  orig: 117, 107
+  offset: 1, 1
+  index: -1

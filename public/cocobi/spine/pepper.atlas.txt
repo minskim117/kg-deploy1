@@ -1,0 +1,629 @@
+
+pepper.png
+size: 2017,777
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0/chili_arm_l_1
+  rotate: false
+  xy: 1931, 132
+  size: 57, 16
+  orig: 59, 18
+  offset: 1, 1
+  index: -1
+0/chili_arm_l_2
+  rotate: true
+  xy: 1334, 56
+  size: 39, 16
+  orig: 41, 18
+  offset: 1, 1
+  index: -1
+0/chili_arm_r_1
+  rotate: false
+  xy: 1243, 2
+  size: 57, 16
+  orig: 59, 18
+  offset: 1, 1
+  index: -1
+0/chili_arm_r_2
+  rotate: true
+  xy: 1991, 356
+  size: 68, 16
+  orig: 70, 18
+  offset: 1, 1
+  index: -1
+0/chili_body
+  rotate: true
+  xy: 1575, 199
+  size: 123, 124
+  orig: 125, 126
+  offset: 1, 1
+  index: -1
+0/chili_hair_back_l
+  rotate: true
+  xy: 1353, 18
+  size: 179, 185
+  orig: 181, 187
+  offset: 1, 1
+  index: -1
+0/chili_hair_back_m
+  rotate: true
+  xy: 599, 275
+  size: 232, 188
+  orig: 234, 190
+  offset: 1, 1
+  index: -1
+0/chili_hair_back_r
+  rotate: false
+  xy: 1366, 199
+  size: 207, 147
+  orig: 209, 149
+  offset: 1, 1
+  index: -1
+0/chili_hair_front
+  rotate: false
+  xy: 1008, 527
+  size: 314, 248
+  orig: 316, 250
+  offset: 1, 1
+  index: -1
+0/chili_head
+  rotate: false
+  xy: 585, 81
+  size: 205, 192
+  orig: 207, 194
+  offset: 1, 1
+  index: -1
+0/chili_leg_l_1
+  rotate: false
+  xy: 595, 2
+  size: 59, 77
+  orig: 63, 97
+  offset: 2, 18
+  index: -1
+0/chili_leg_l_2
+  rotate: true
+  xy: 309, 2
+  size: 89, 77
+  orig: 91, 79
+  offset: 1, 1
+  index: -1
+0/chili_leg_r_1
+  rotate: false
+  xy: 656, 2
+  size: 59, 77
+  orig: 62, 101
+  offset: 1, 20
+  index: -1
+0/chili_leg_r_2
+  rotate: false
+  xy: 1646, 324
+  size: 90, 77
+  orig: 92, 79
+  offset: 1, 1
+  index: -1
+1/chili_body
+  rotate: false
+  xy: 1738, 264
+  size: 159, 137
+  orig: 161, 139
+  offset: 1, 1
+  index: -1
+1/chili_head
+  rotate: false
+  xy: 1366, 348
+  size: 213, 192
+  orig: 215, 194
+  offset: 1, 1
+  index: -1
+2/chili_arm_l_1
+  rotate: false
+  xy: 1861, 99
+  size: 71, 27
+  orig: 73, 29
+  offset: 1, 1
+  index: -1
+2/chili_arm_l_2
+  rotate: false
+  xy: 1188, 16
+  size: 53, 27
+  orig: 55, 29
+  offset: 1, 1
+  index: -1
+2/chili_arm_r_1
+  rotate: true
+  xy: 1829, 41
+  size: 69, 27
+  orig: 71, 29
+  offset: 1, 1
+  index: -1
+2/chili_arm_r_2
+  rotate: true
+  xy: 1861, 2
+  size: 60, 27
+  orig: 62, 29
+  offset: 1, 1
+  index: -1
+2/chili_body
+  rotate: true
+  xy: 1000, 86
+  size: 208, 152
+  orig: 210, 154
+  offset: 1, 1
+  index: -1
+2/chili_hair_back_l
+  rotate: false
+  xy: 792, 76
+  size: 206, 202
+  orig: 208, 204
+  offset: 1, 1
+  index: -1
+2/chili_hair_back_m
+  rotate: false
+  xy: 340, 301
+  size: 257, 206
+  orig: 259, 208
+  offset: 1, 1
+  index: -1
+2/chili_hair_back_r
+  rotate: false
+  xy: 1646, 403
+  size: 225, 164
+  orig: 227, 166
+  offset: 1, 1
+  index: -1
+2/chili_hair_front
+  rotate: false
+  xy: 674, 523
+  size: 332, 252
+  orig: 334, 254
+  offset: 1, 1
+  index: -1
+2/chili_head
+  rotate: true
+  xy: 789, 280
+  size: 241, 196
+  orig: 243, 198
+  offset: 1, 1
+  index: -1
+2/chili_leg_l_1
+  rotate: true
+  xy: 1911, 209
+  size: 59, 85
+  orig: 65, 104
+  offset: 3, 15
+  index: -1
+2/chili_leg_l_2
+  rotate: true
+  xy: 1910, 569
+  size: 89, 83
+  orig: 91, 85
+  offset: 1, 1
+  index: -1
+2/chili_leg_r_1
+  rotate: false
+  xy: 1800, 112
+  size: 59, 85
+  orig: 62, 100
+  offset: 1, 13
+  index: -1
+2/chili_leg_r_2
+  rotate: false
+  xy: 1899, 340
+  size: 90, 84
+  orig: 92, 86
+  offset: 1, 1
+  index: -1
+3/chili_arm_l
+  rotate: false
+  xy: 1154, 45
+  size: 88, 50
+  orig: 90, 52
+  offset: 1, 1
+  index: -1
+3/chili_arm_r
+  rotate: false
+  xy: 1244, 45
+  size: 88, 50
+  orig: 90, 52
+  offset: 1, 1
+  index: -1
+3/chili_body
+  rotate: false
+  xy: 1324, 542
+  size: 320, 233
+  orig: 322, 235
+  offset: 1, 1
+  index: -1
+3/chili_head
+  rotate: false
+  xy: 1646, 569
+  size: 262, 206
+  orig: 264, 208
+  offset: 1, 1
+  index: -1
+bubble_back
+  rotate: false
+  xy: 2, 108
+  size: 329, 329
+  orig: 331, 331
+  offset: 1, 1
+  index: -1
+bubble_front
+  rotate: false
+  xy: 2, 439
+  size: 336, 336
+  orig: 338, 338
+  offset: 1, 1
+  index: -1
+chili_bone
+  rotate: true
+  xy: 1540, 30
+  size: 167, 109
+  orig: 169, 111
+  offset: 1, 1
+  index: -1
+chili_candy
+  rotate: false
+  xy: 1147, 2
+  size: 39, 41
+  orig: 41, 44
+  offset: 1, 1
+  index: -1
+chili_deco
+  rotate: false
+  xy: 1829, 2
+  size: 30, 37
+  orig: 32, 39
+  offset: 1, 1
+  index: -1
+chili_eye_0
+  rotate: false
+  xy: 388, 33
+  size: 124, 58
+  orig: 126, 60
+  offset: 1, 1
+  index: -1
+chili_eye_1
+  rotate: true
+  xy: 1651, 80
+  size: 117, 40
+  orig: 119, 42
+  offset: 1, 1
+  index: -1
+chili_eye_2
+  rotate: true
+  xy: 1693, 80
+  size: 117, 40
+  orig: 119, 42
+  offset: 1, 1
+  index: -1
+chili_eye_3
+  rotate: false
+  xy: 787, 38
+  size: 121, 36
+  orig: 123, 38
+  offset: 1, 1
+  index: -1
+chili_eyeball_l
+  rotate: false
+  xy: 952, 2
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1
+chili_eyeball_r
+  rotate: false
+  xy: 1934, 58
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1
+chili_eyebrow_l
+  rotate: false
+  xy: 1934, 33
+  size: 34, 23
+  orig: 36, 25
+  offset: 1, 1
+  index: -1
+chili_eyebrow_r
+  rotate: false
+  xy: 1934, 8
+  size: 34, 23
+  orig: 36, 25
+  offset: 1, 1
+  index: -1
+chili_eyelid_l
+  rotate: false
+  xy: 1058, 9
+  size: 64, 33
+  orig: 66, 35
+  offset: 1, 1
+  index: -1
+chili_eyelid_r
+  rotate: false
+  xy: 1858, 64
+  size: 64, 33
+  orig: 66, 35
+  offset: 1, 1
+  index: -1
+chili_hand_l
+  rotate: false
+  xy: 717, 5
+  size: 68, 74
+  orig: 70, 76
+  offset: 1, 1
+  index: -1
+chili_hand_r
+  rotate: false
+  xy: 1861, 128
+  size: 68, 74
+  orig: 70, 76
+  offset: 1, 1
+  index: -1
+chili_mouth_0
+  rotate: false
+  xy: 1243, 20
+  size: 57, 23
+  orig: 59, 25
+  offset: 1, 1
+  index: -1
+chili_mouth_1
+  rotate: true
+  xy: 1124, 7
+  size: 35, 15
+  orig: 37, 17
+  offset: 1, 1
+  index: -1
+chili_mouth_2
+  rotate: true
+  xy: 1124, 7
+  size: 35, 15
+  orig: 37, 17
+  offset: 1, 1
+  index: -1
+chili_mouth_10
+  rotate: false
+  xy: 910, 47
+  size: 83, 27
+  orig: 85, 29
+  offset: 1, 1
+  index: -1
+chili_mouth_11
+  rotate: false
+  xy: 388, 2
+  size: 88, 29
+  orig: 90, 31
+  offset: 1, 1
+  index: -1
+chili_mouth_12
+  rotate: false
+  xy: 1899, 270
+  size: 101, 68
+  orig: 102, 70
+  offset: 1, 1
+  index: -1
+chili_mouth_13
+  rotate: false
+  xy: 1810, 204
+  size: 99, 58
+  orig: 100, 60
+  offset: 1, 1
+  index: -1
+chili_mouth_15
+  rotate: true
+  xy: 1581, 433
+  size: 107, 63
+  orig: 109, 65
+  offset: 1, 1
+  index: -1
+chili_mouth_16
+  rotate: true
+  xy: 1581, 324
+  size: 107, 63
+  orig: 109, 65
+  offset: 1, 1
+  index: -1
+chili_mouth_17
+  rotate: false
+  xy: 1701, 199
+  size: 107, 63
+  orig: 109, 65
+  offset: 1, 1
+  index: -1
+chili_mouth_18
+  rotate: true
+  xy: 1735, 90
+  size: 107, 63
+  orig: 109, 65
+  offset: 1, 1
+  index: -1
+chili_mouth_3
+  rotate: false
+  xy: 1873, 406
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1
+chili_mouth_4
+  rotate: false
+  xy: 478, 6
+  size: 34, 25
+  orig: 36, 27
+  offset: 1, 1
+  index: -1
+chili_mouth_5
+  rotate: false
+  xy: 1934, 103
+  size: 54, 27
+  orig: 56, 29
+  offset: 1, 1
+  index: -1
+chili_mouth_6
+  rotate: true
+  xy: 1995, 600
+  size: 58, 20
+  orig: 60, 22
+  offset: 1, 1
+  index: -1
+chili_mouth_7
+  rotate: false
+  xy: 1077, 44
+  size: 68, 40
+  orig: 70, 42
+  offset: 1, 1
+  index: -1
+chili_mouth_8
+  rotate: true
+  xy: 1890, 8
+  size: 54, 42
+  orig: 56, 44
+  offset: 1, 1
+  index: -1
+chili_mouth_9
+  rotate: false
+  xy: 997, 6
+  size: 59, 42
+  orig: 61, 44
+  offset: 1, 1
+  index: -1
+chili_sweat
+  rotate: false
+  xy: 1931, 150
+  size: 62, 57
+  orig: 65, 60
+  offset: 2, 1
+  index: -1
+chili_w_arm_l_1
+  rotate: false
+  xy: 875, 2
+  size: 75, 34
+  orig: 77, 36
+  offset: 1, 1
+  index: -1
+chili_w_arm_l_2
+  rotate: true
+  xy: 1701, 265
+  size: 57, 34
+  orig: 59, 36
+  offset: 1, 1
+  index: -1
+chili_w_arm_r_1
+  rotate: false
+  xy: 1000, 50
+  size: 75, 34
+  orig: 77, 36
+  offset: 1, 1
+  index: -1
+chili_w_arm_r_2
+  rotate: false
+  xy: 787, 2
+  size: 86, 34
+  orig: 88, 36
+  offset: 1, 1
+  index: -1
+chili_w_body
+  rotate: true
+  xy: 1873, 426
+  size: 141, 142
+  orig: 143, 144
+  offset: 1, 1
+  index: -1
+chili_w_hair_back_l
+  rotate: false
+  xy: 1154, 97
+  size: 197, 203
+  orig: 199, 205
+  offset: 1, 1
+  index: -1
+chili_w_hair_back_m
+  rotate: false
+  xy: 333, 93
+  size: 250, 206
+  orig: 252, 208
+  offset: 1, 1
+  index: -1
+chili_w_hair_back_r
+  rotate: true
+  xy: 987, 296
+  size: 225, 165
+  orig: 227, 167
+  offset: 1, 1
+  index: -1
+chili_w_hair_front
+  rotate: false
+  xy: 340, 509
+  size: 332, 266
+  orig: 334, 268
+  offset: 1, 1
+  index: -1
+chili_w_hand_l
+  rotate: false
+  xy: 221, 14
+  size: 86, 92
+  orig: 88, 94
+  offset: 1, 1
+  index: -1
+chili_w_hand_r
+  rotate: true
+  xy: 1735, 2
+  size: 86, 92
+  orig: 88, 94
+  offset: 1, 1
+  index: -1
+chili_w_head
+  rotate: true
+  xy: 1154, 302
+  size: 223, 210
+  orig: 225, 212
+  offset: 1, 1
+  index: -1
+chili_w_leg_l_1
+  rotate: true
+  xy: 514, 2
+  size: 77, 79
+  orig: 79, 81
+  offset: 1, 1
+  index: -1
+chili_w_leg_l_2
+  rotate: false
+  xy: 112, 11
+  size: 107, 95
+  orig: 109, 97
+  offset: 1, 1
+  index: -1
+chili_w_leg_r_1
+  rotate: true
+  xy: 1651, 2
+  size: 76, 79
+  orig: 78, 81
+  offset: 1, 1
+  index: -1
+chili_w_leg_r_2
+  rotate: false
+  xy: 2, 11
+  size: 108, 95
+  orig: 110, 97
+  offset: 1, 1
+  index: -1
+chli_mouth_14
+  rotate: true
+  xy: 1302, 11
+  size: 32, 47
+  orig: 36, 49
+  offset: 1, 1
+  index: -1
+empty
+  rotate: false
+  xy: 789, 277
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+warning
+  rotate: true
+  xy: 1910, 660
+  size: 115, 105
+  orig: 117, 107
+  offset: 1, 1
+  index: -1

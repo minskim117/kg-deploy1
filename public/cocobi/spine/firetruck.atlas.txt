@@ -1,0 +1,363 @@
+
+firetruck.png
+size: 1472,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble_back
+  rotate: false
+  xy: 524, 555
+  size: 329, 329
+  orig: 331, 331
+  offset: 1, 1
+  index: -1
+bubble_front
+  rotate: false
+  xy: 2, 3
+  size: 336, 336
+  orig: 338, 338
+  offset: 1, 1
+  index: -1
+empty
+  rotate: false
+  xy: 855, 774
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+firetruck_angry
+  rotate: false
+  xy: 1240, 15
+  size: 58, 55
+  orig: 60, 57
+  offset: 1, 1
+  index: -1
+firetruck_blackwater_front
+  rotate: false
+  xy: 433, 88
+  size: 356, 68
+  orig: 358, 70
+  offset: 1, 1
+  index: -1
+firetruck_body_back
+  rotate: true
+  xy: 1163, 312
+  size: 220, 231
+  orig: 222, 233
+  offset: 1, 1
+  index: -1
+firetruck_body_front
+  rotate: false
+  xy: 1023, 774
+  size: 428, 256
+  orig: 430, 258
+  offset: 1, 1
+  index: -1
+firetruck_dirt_0
+  rotate: false
+  xy: 791, 93
+  size: 89, 72
+  orig: 91, 74
+  offset: 1, 1
+  index: -1
+firetruck_dirt_1
+  rotate: false
+  xy: 1188, 8
+  size: 50, 64
+  orig: 52, 67
+  offset: 1, 2
+  index: -1
+firetruck_dirt_2
+  rotate: true
+  xy: 958, 23
+  size: 60, 84
+  orig: 62, 86
+  offset: 1, 1
+  index: -1
+firetruck_dirt_3
+  rotate: true
+  xy: 783, 2
+  size: 81, 82
+  orig: 83, 84
+  offset: 1, 1
+  index: -1
+firetruck_dirt_4
+  rotate: true
+  xy: 1418, 178
+  size: 50, 41
+  orig: 52, 43
+  offset: 1, 1
+  index: -1
+firetruck_dirt_5
+  rotate: true
+  xy: 1133, 2
+  size: 70, 53
+  orig: 72, 55
+  offset: 1, 1
+  index: -1
+firetruck_dirt_6
+  rotate: false
+  xy: 1395, 17
+  size: 41, 48
+  orig: 43, 50
+  offset: 1, 1
+  index: -1
+firetruck_dirt_7
+  rotate: true
+  xy: 1396, 325
+  size: 50, 72
+  orig: 52, 74
+  offset: 1, 1
+  index: -1
+firetruck_dirt_8
+  rotate: true
+  xy: 1044, 25
+  size: 60, 87
+  orig: 62, 89
+  offset: 1, 1
+  index: -1
+firetruck_drops_0
+  rotate: true
+  xy: 1023, 87
+  size: 35, 97
+  orig: 37, 99
+  offset: 1, 1
+  index: -1
+firetruck_drops_1
+  rotate: false
+  xy: 450, 783
+  size: 72, 101
+  orig: 74, 103
+  offset: 1, 1
+  index: -1
+firetruck_ear_l
+  rotate: false
+  xy: 1303, 170
+  size: 113, 140
+  orig: 115, 142
+  offset: 1, 1
+  index: -1
+firetruck_ear_r
+  rotate: true
+  xy: 882, 85
+  size: 116, 139
+  orig: 118, 141
+  offset: 1, 1
+  index: -1
+firetruck_eye_0
+  rotate: true
+  xy: 1249, 72
+  size: 106, 49
+  orig: 108, 51
+  offset: 1, 1
+  index: -1
+firetruck_eye_1
+  rotate: false
+  xy: 1300, 33
+  size: 93, 32
+  orig: 95, 34
+  offset: 1, 1
+  index: -1
+firetruck_eye_2
+  rotate: true
+  xy: 1404, 75
+  size: 93, 32
+  orig: 95, 34
+  offset: 1, 1
+  index: -1
+firetruck_eye_3
+  rotate: true
+  xy: 1418, 230
+  size: 93, 33
+  orig: 95, 35
+  offset: 1, 1
+  index: -1
+firetruck_eyeball_l
+  rotate: false
+  xy: 1438, 48
+  size: 32, 33
+  orig: 34, 35
+  offset: 1, 1
+  index: -1
+firetruck_eyeball_r
+  rotate: false
+  xy: 1438, 13
+  size: 32, 33
+  orig: 34, 35
+  offset: 1, 1
+  index: -1
+firetruck_eyelid
+  rotate: false
+  xy: 450, 756
+  size: 58, 25
+  orig: 58, 25
+  offset: 0, 0
+  index: -1
+firetruck_ladder_btm_back
+  rotate: false
+  xy: 857, 390
+  size: 304, 185
+  orig: 306, 187
+  offset: 1, 1
+  index: -1
+firetruck_ladder_btm_front
+  rotate: false
+  xy: 524, 368
+  size: 331, 185
+  orig: 333, 187
+  offset: 1, 1
+  index: -1
+firetruck_ladder_top
+  rotate: false
+  xy: 855, 577
+  size: 339, 195
+  orig: 341, 197
+  offset: 1, 1
+  index: -1
+firetruck_nose_0
+  rotate: true
+  xy: 855, 777
+  size: 107, 166
+  orig: 107, 166
+  offset: 0, 0
+  index: -1
+firetruck_nose_1_back
+  rotate: false
+  xy: 433, 13
+  size: 180, 73
+  orig: 182, 75
+  offset: 1, 1
+  index: -1
+firetruck_nose_1_front
+  rotate: true
+  xy: 1396, 377
+  size: 155, 73
+  orig: 157, 75
+  offset: 1, 1
+  index: -1
+firetruck_sirenlight
+  rotate: true
+  xy: 1438, 83
+  size: 93, 32
+  orig: 102, 42
+  offset: 5, 5
+  index: -1
+firetruck_w_body_back
+  rotate: true
+  xy: 1196, 534
+  size: 238, 248
+  orig: 240, 250
+  offset: 1, 1
+  index: -1
+firetruck_w_body_front
+  rotate: false
+  xy: 2, 756
+  size: 446, 274
+  orig: 448, 276
+  offset: 1, 1
+  index: -1
+firetruck_w_ear_l
+  rotate: true
+  xy: 1144, 180
+  size: 130, 157
+  orig: 132, 159
+  offset: 1, 1
+  index: -1
+firetruck_w_ear_r
+  rotate: false
+  xy: 1008, 231
+  size: 134, 157
+  orig: 136, 159
+  offset: 1, 1
+  index: -1
+firetruck_w_ladder_btm_front
+  rotate: false
+  xy: 433, 158
+  size: 354, 208
+  orig: 356, 210
+  offset: 1, 1
+  index: -1
+firetruck_w_ladder_top
+  rotate: true
+  xy: 308, 397
+  size: 357, 214
+  orig: 359, 216
+  offset: 1, 1
+  index: -1
+firetruck_w_nose_0
+  rotate: false
+  xy: 882, 203
+  size: 124, 185
+  orig: 124, 185
+  offset: 0, 0
+  index: -1
+firetruck_w_nose_1
+  rotate: true
+  xy: 789, 167
+  size: 199, 91
+  orig: 201, 93
+  offset: 1, 1
+  index: -1
+firetruck_w_wheel
+  rotate: true
+  xy: 1140, 74
+  size: 104, 107
+  orig: 106, 109
+  offset: 1, 1
+  index: -1
+firetruck_wheel
+  rotate: true
+  xy: 1300, 67
+  size: 101, 102
+  orig: 103, 104
+  offset: 1, 1
+  index: -1
+firetruck_wrinkle
+  rotate: true
+  xy: 958, 2
+  size: 19, 18
+  orig: 21, 20
+  offset: 1, 1
+  index: -1
+warning
+  rotate: false
+  xy: 1023, 124
+  size: 115, 105
+  orig: 117, 107
+  offset: 1, 1
+  index: -1
+wateattack_wave
+  rotate: true
+  xy: 615, 14
+  size: 72, 166
+  orig: 74, 168
+  offset: 1, 1
+  index: -1
+waterattack
+  rotate: false
+  xy: 2, 341
+  size: 304, 413
+  orig: 306, 415
+  offset: 1, 1
+  index: -1
+waterattack_line
+  rotate: false
+  xy: 450, 886
+  size: 571, 144
+  orig: 668, 150
+  offset: 13, 3
+  index: -1
+wheel_back
+  rotate: true
+  xy: 867, 17
+  size: 66, 89
+  orig: 68, 91
+  offset: 1, 1
+  index: -1
+x_wheel
+  rotate: true
+  xy: 340, 25
+  size: 370, 91
+  orig: 372, 93
+  offset: 1, 1
+  index: -1
